@@ -29,5 +29,5 @@ SaaS(software as service)
 
 5) Multi cloud( accesed by 2 or more cloud providers, can use different feature from different cloud providers)
 6) Azure Arc (maintain the cloud enviroment, can be run on all cloud models mentioned above)
-7) VMware Azure solution(with the help of VM any cloud model can be shifted to other cloud model such as switching from private to public)
+7) VMware Azure solution(all vmware workloads can be shifted to azure without reconfigration.
 
