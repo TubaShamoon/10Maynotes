@@ -20,3 +20,10 @@ SaaS(software as service)
 
 1) work as a middle platform 
 2) destributes responsibility between cloud provider and consumer 
+
+## Cloud models 
+1) private model 
+2) public model 
+3) hybrid model
+
+5) 
