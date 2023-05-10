@@ -27,4 +27,7 @@ SaaS(software as service)
  
 4) hybrid model( company decides which data they want to share publicaly,take care of legal and private practices)
 
-5) 
+5) Multi cloud( accesed by 2 or more cloud providers, can use different feature from different cloud providers)
+6) Azure Arc (maintain the cloud enviroment, can be run on all cloud models mentioned above)
+7) VMware Azure solution(with the help of VM any cloud model can be shifted to other cloud model such as switching from private to public)
+
