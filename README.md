@@ -22,8 +22,9 @@ SaaS(software as service)
 2) destributes responsibility between cloud provider and consumer 
 
 ## Cloud models 
-1) private model 
-2) public model 
-3) hybrid model
+1) private model (provides full authority to company,no public involve, used by single entity, expensive)
+2) public model (publicaly can be accessed , flexible, cheaper, no authority by organization)
+ 
+4) hybrid model( company decides which data they want to share publicaly,take care of legal and private practices)
 
 5) 
